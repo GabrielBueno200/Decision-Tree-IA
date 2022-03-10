@@ -2,5 +2,6 @@
 
 Integrantes:
 
-Gabriel Bueno Vila Real de Oliveira
+Gabriel Bueno Vila Real de Oliveira 
+
 Thiago Soares Cardoso da Silva
