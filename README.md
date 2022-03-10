@@ -1,4 +1,4 @@
-# Laboratório 3 - Inteligência Artificial
+# Laboratório 2 - Inteligência Artificial
 
 Integrantes:
 
