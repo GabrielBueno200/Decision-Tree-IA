@@ -4,7 +4,7 @@ Integrantes:
 
 - Gabriel Bueno Vila Real de Oliveira - RA: 22.119.077-0
 
-- Thiago Soares Cardoso da Silva
+- Thiago Soares Cardoso da Silva - RA: 22.119.044-0
 
 ## CritériosProva
 
